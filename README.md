@@ -1,49 +1,79 @@
 ## 👋 Hi, I'm Dipok Das
 
-🚀 **Frontend / MERN Stack Web Developer**
-💻 React | JavaScript | Node.js | MongoDB
-🎯 Passionate about building clean, responsive, and user-focused web applications
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
+</p>
+
+🚀 **React / MERN Stack Web Developer**
+💻 React | JavaScript | Node.js | Express | MongoDB
+🎯 Focused on building scalable, performance-driven, and user-centric web applications
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me (Job-Ready)
 
-I am a dedicated web developer focused on creating modern, scalable, and high-performing applications. I enjoy solving real-world problems through code and continuously improving my skills in frontend and backend development.
+I am a motivated **React & MERN Stack Developer** with hands-on experience in building real-world projects. I focus on clean code, reusable components, and responsive UI. Currently seeking **junior / entry-level web developer opportunities** where I can grow and contribute.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **Tools:** Git, GitHub, Vercel, VS Code
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5, CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Tools & Platforms
+
+* Git & GitHub
+* Vercel
+* VS Code
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured MERN Projects
 
 ### 🔹 Portfolio Website
 
-A personal portfolio showcasing my projects and skills.
+Personal developer portfolio showcasing projects, skills, and experience.
 
 * **Tech:** React, Tailwind CSS
 * **Live:** [https://dipok-main.vercel.app/](https://dipok-main.vercel.app/)
 
-### 🔹 MERN Application
+### 🔹 MERN CRUD Application
 
-Full-stack web application with authentication and CRUD features.
+Full-stack MERN application with authentication and CRUD functionality.
 
 * **Tech:** MongoDB, Express, React, Node.js
-* **Code:** Available on my GitHub repositories
+* **Features:** Auth, Dashboard, REST API
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipokdas347250\&show_icons=true\&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipokdas347250&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipokdas347250&layout=compact" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipokdas347250\&layout=compact)
+---
+
+## 🎯 What I’m Looking For
+
+* ✅ Junior / Entry-Level Web Developer Role
+* ✅ React or MERN Stack Position
+* ✅ Internship / Remote Opportunities
 
 ---
 
@@ -55,4 +85,4 @@ Full-stack web application with authentication and CRUD features.
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
+⭐ *Thanks for visiting my profile! Feel free to connect or check out my projects.*
