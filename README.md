@@ -5,7 +5,7 @@
 </p>
 
 🚀 **React / MERN Stack Web Developer**
-💻 React | JavaScript | Node.js | Express | MongoDB
+💻 React | Next js | JavaScript | TypeScript | Node.js | Express | MongoDB
 🎯 Focused on building scalable, performance-driven, and user-centric web applications
 
 ---
@@ -21,7 +21,9 @@ I am a motivated **React & MERN Stack Developer** with hands-on experience in bu
 ### Frontend
 
 * React.js
+* Next.js
 * JavaScript (ES6+)
+* TypeScript
 * HTML5, CSS3
 * Tailwind CSS
 
@@ -55,17 +57,9 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 Full-stack MERN application with authentication and CRUD functionality.
 
-* **Tech:** MongoDB, Express, React, Node.js
+* **Tech:** MongoDB, Express, React, Next js, Node.js
 * **Features:** Auth, Dashboard, REST API
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipokdas347250&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipokdas347250&layout=compact" height="165" />
-</p>
 
 ---
 
