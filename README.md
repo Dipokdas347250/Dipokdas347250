@@ -1,7 +1,13 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=Dipok%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Dipok Das</h1>
 
+<h3 align="center">React Developer | MERN Stack Engineer | Next.js Developer</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Engineer;Next.js+Developer;Open+to+Job+Opportunities&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -10,16 +16,16 @@
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💻 React / MERN Stack Developer  
-⚡ Passionate about building modern web applications  
-📚 Currently improving my full stack development skills  
-🎯 Looking for **Junior / Entry Level Web Developer roles**
+🚀 MERN Stack Developer  
+💻 Building modern and scalable web applications  
+📚 Currently improving backend and system design  
+🎯 Looking for **Junior / Entry Level Developer roles**
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
 
@@ -33,21 +39,21 @@
 
 ### 🔹 Portfolio Website
 
-Personal developer portfolio showcasing projects and skills.
+Personal developer portfolio.
 
-🔗 Live:  
-https://dipok-main.vercel.app/
-
-Tech Stack  
+Tech  
 React • Tailwind CSS
+
+Live  
+https://dipok-main.vercel.app/
 
 ---
 
 ### 🔹 MERN CRUD Application
 
-Full-stack MERN application with authentication and dashboard.
+Full-stack MERN project.
 
-Tech Stack  
+Tech  
 MongoDB • Express • React • Next.js • Node.js
 
 Features  
@@ -61,9 +67,9 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dipokdas347250&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dipokdas347250&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipokdas347250&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipokdas347250&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -73,7 +79,17 @@ Features
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dipokdas347250&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Dipokdas347250&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipokdas347250&theme=tokyonight"/>
 
 </p>
 
@@ -82,7 +98,9 @@ Features
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -104,4 +122,14 @@ https://github.com/Dipokdas347250
 <img src="https://komarev.com/ghpvc/?username=Dipokdas347250&color=blue">
 </p>
 
+---
+
+<p align="center">
+
 ⭐ Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=120&section=footer"/>
+</p>
