@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi I'm Dipok Das</h1>
 
-<h3 align="center">React Developer | MERN Stack Engineer | Next.js Developer</h3>
+<h3 align="center">React Developer | MERN Stack Developer | Next.js Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Open+to+Job+Opportunities&center=true&width=600&height=45">
