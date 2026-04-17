@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=220&section=header&text=Dipok%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Dipok Das</h1>
+<h1 align="center">Hi I'm Dipok Das</h1>
 
 <h3 align="center">React Developer | MERN Stack Engineer | Next.js Developer</h3>
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#About Me
 
 🚀 MERN Stack Developer  
 💻 Building modern and scalable web applications  
@@ -25,7 +25,7 @@
 
 ---
 
-# 🧠 Tech Stack
+#Tech Stack
 
 <p align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🔹 Portfolio Website
 
@@ -75,7 +75,7 @@ Features
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -85,7 +85,7 @@ Features
 
 ---
 
-# 📈 3D Contribution Graph
+# 3D Contribution Graph
 
 <p align="center">
 
@@ -95,7 +95,7 @@ Features
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -126,7 +126,7 @@ https://github.com/Dipokdas347250
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </p>
 
