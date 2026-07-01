@@ -18,10 +18,10 @@
 
 #About Me
 
-🚀 MERN Stack Developer  
-💻 Building modern and scalable web applications  
-📚 Currently improving backend and system design  
-🎯 Looking for **Junior / Entry Level Developer roles**
+* MERN Stack Developer  
+* Building modern and scalable web applications  
+* Currently improving backend and system design  
+* Looking for **Junior / Entry Level Developer roles**
 
 ---
 
