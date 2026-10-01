@@ -45,7 +45,7 @@ Tech
 React • Tailwind CSS
 
 Live  
-https://dipok-main.vercel.app/
+https://dipokdas.vercel.app/
 
 ---
 
